@@ -6,7 +6,7 @@ I have tried a zillion apps that promise to help me track my expenses— some re
 Please click to see a larger version
 ![PIEMan](https://i.imgur.com/jIEePJr.png)
 
-First, get the file here: https://docs.google.com/spreadsheets/d/1JaT_RbjUC5_0Gr5IoyBlk1PvugIJ3G1wiVdNkZSUqgw/edit?usp=sharing
+### First, get the file here: https://docs.google.com/spreadsheets/d/1JaT_RbjUC5_0Gr5IoyBlk1PvugIJ3G1wiVdNkZSUqgw/edit?usp=sharing
 
 The file is comment-only, so go to File > Make a copy, and save it to your Google Drive. Now you can make edits.
 
